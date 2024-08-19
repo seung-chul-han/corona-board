@@ -1,0 +1,14 @@
+{
+	"name": "api",
+	"version": "1.0.0",
+	"license": "MIT",
+	"main": "index.js",
+	"dependencies": {
+		"express": "^4.19.2",
+		"mysql2": "^3.11.0",
+		"sequelize": "^6.37.3"
+	},
+	"devDependencies": {
+		"dotenv": "^16.4.5"
+	}
+}
